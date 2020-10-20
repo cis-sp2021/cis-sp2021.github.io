@@ -13,7 +13,9 @@
  - Dozenten: Florian Fink
  - Tutoren: Leonhard Wabro, Yindong Wang
  
- Sie erreichen den Dozenten und die Tutoren unter: `sp2021 [at] cis [dot] uni [minus] muenchen [dot] de`
+ Sie erreichen den Dozenten und die Tutoren unter: 
+ 
+ sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 
 
 | Date | slides | homework | materials |
