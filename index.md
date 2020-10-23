@@ -16,6 +16,9 @@
  Sie erreichen den Dozenten und die Tutoren unter: 
  
  sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
+ 
+ Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. 
+ Gruppen können Sie hier anmelden: [Webformular](https://cis.lmu.de/~finkf/sp2021/sp2021)
 
 
 | Date | slides | homework | materials |
