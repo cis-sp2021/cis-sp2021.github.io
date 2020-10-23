@@ -17,8 +17,19 @@
  
  sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
  
+ ### Verschiedenes
+ 
  Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden. 
- Gruppen können Sie hier anmelden: [Webformular](https://cis.lmu.de/~finkf/sp2021/sp2021)
+ Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account
+ des IFI.  Mehr Informationen finden Sie [hier](https://www.rz.ifi.lmu.de/infos/cipconf_de.html).
+ Gruppen können sich über das [Webformular](https://cis.lmu.de/~finkf/sp2021/sp2021) anmelden.
+ 
+ Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: 
+ [Python Course](https://www.python-course.eu/python3_course.php)
+ 
+ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/pycharm) für 
+ die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine 
+ kurze Einleitung zu PyCharm befindet sich [hier](pycharm.pdf).
 
 
 | Date | slides | homework | materials |
