@@ -19,7 +19,7 @@ Falls es dann immernoch nicht klappt, wenden Sie sich bitte an die Tutoren oder 
 PS: Es wird empfohlen die Entwicklungsumgebung PyCharm für die Bearbeitung der Programmieraufgaben zu nutzen. Diese unterstützt insbesondere auch eine grafische Oberfläche und Integration für Git. Eine kurze Einleitung zu PyCharm finden Sie [hier](pycharm.pdf).<br>
 - *Ich kann die Unit Tests nicht ausführen, woran könnte es liegen?* <br>
 Ein häufiger Fehler ist, dass Sie die Unit Tests nicht im src Ordner ausgeführt werden. Nachdem Sie sichergestellt haben, dass Sie sich im src Ornder befinden, sollten Sie den folgenden Befehl im Terminal ausführen können: <br>
-Beispiel:  python3 -m unittest -v hw01_basics/test_basics.py
+Beispiel:  python3 -m unittest -v hw03_documents/test_documents.py
 Falls es trotzdem nicht funktioniert und sie PyCharm benutzen, stellen Sie bitte sicher, dass der src Ordner als “sources root” markiert wurde. <br>
 Rechtsklick auf src → mark directory as → sources root. <br>
 
