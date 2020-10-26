@@ -36,6 +36,8 @@ Es wird empfohlen die Entwicklungsumgebung
 unterstützt. Eine kurze Einleitung zu PyCharm befindet sich
 [hier](pycharm.pdf).
 
+Frequently asked questions: [FAQ](faq.md)
+
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
