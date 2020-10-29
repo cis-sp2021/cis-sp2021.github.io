@@ -4,11 +4,13 @@
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Zoom-Link
+ 
 
  - Zeit/Übung: Do 16:00-18:00 (c.t.)
  - Ort/Übung: Zoom-Link
  - Zeit/Tutorat: Fr 12:00-14:00
  - Ort/Tutorat: Zoom-Link
+ 
 
  - Dozenten: Florian Fink
  - Tutoren: Leonhard Wabro, Yindong Wang
