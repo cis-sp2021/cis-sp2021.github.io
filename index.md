@@ -24,7 +24,7 @@ Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account
 des IFI.  Mehr Informationen finden Sie
 [hier](https://www.rz.ifi.lmu.de/infos/gitlab_de.html).  Gruppen
 können sich über das
-[Webformular](https://cis.lmu.de/~finkf/sp2021/sp2021) anmelden.
+[Webformular (inaktiv)](https://cis.lmu.de/~finkf/sp2021/sp2021) anmelden.
 
 Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses
 Online-Tutorial empfohlen: [Python
