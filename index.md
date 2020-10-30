@@ -3,11 +3,11 @@
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
- - Ort/Vorlesung: https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09
+ - Ort/Vorlesung: [Zoom](https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09)
  
 
  - Zeit/Übung: Do 16:00-18:00 (c.t.)
- - Ort/Übung: https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09
+ - Ort/Übung: [Zoom](https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09)
  - Zeit/Tutorat: Fr 10:00-12:00
  - Ort/Tutorat: Zoom-Link
  
