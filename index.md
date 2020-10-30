@@ -8,7 +8,7 @@
 
  - Zeit/Übung: Do 16:00-18:00 (c.t.)
  - Ort/Übung: Zoom-Link
- - Zeit/Tutorat: Fr 12:00-14:00
+ - Zeit/Tutorat: Fr 10:00-12:00
  - Ort/Tutorat: Zoom-Link
  
 
