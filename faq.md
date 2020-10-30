@@ -2,7 +2,7 @@
 
 - *Wie laufen die Übungen ab?* <br>
 Es wird eine Zentralübung stattfinden, in welcher die Lösungen zu den Programmieraufgaben präsentiert werden.
-Zusätzlich bieten wir ein Tutorium an, welches freitags von 12 bis 14 Uhr stattfindet.
+Zusätzlich bieten wir ein Tutorium an, welches freitags von 10 bis 12 Uhr stattfindet.
 Dort werden alle Fragen, welche in dieser Woche gestellt wurden, besprochen.
 
 - *Wird es dieses Semester noch Präsenzveranstaltungen geben?* <br>
