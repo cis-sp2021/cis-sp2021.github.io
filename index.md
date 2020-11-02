@@ -42,4 +42,4 @@ Frequently asked questions: [FAQ](faq.md)
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Noc. 03, 2020 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
+| Nov. 03, 2020 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
