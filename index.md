@@ -4,13 +4,13 @@
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: [Zoom](https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09)
- 
+
  - Zeit/Übung: Do 16:00-18:00 (c.t.)
  - Ort/Übung: [Zoom](https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09)
- 
+
  - Zeit/Tutorat: Fr 10:00-12:00 (c.t.)
  - Ort/Tutorat: [Zoom](https://lmu-munich.zoom.us/j/96068548898?pwd=ZFJDRFFpdGRlWWZ1bEljSnhQQllCUT09)
- 
+
  - Dozenten: Florian Fink
  - Tutoren: Leonhard Wabro, Yindong Wang
 
@@ -42,4 +42,4 @@ Frequently asked questions: [FAQ](faq.md)
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 15, 2019 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
+| Noc. 03, 2020 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
