@@ -21,8 +21,8 @@ sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 ### Verschiedenes
 
 Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden.
-Hierzu benötigen alle Gruppenmitglieder einen gültigen Gitlab-Account
-des IFI.  Mehr Informationen finden Sie
+Hierzu benötigen alle Gruppenmitglieder einen gültigen 
+[Gitlab](https://gitlab2.cip.ifi.lmu.de)-Account des IFI.  Mehr Informationen finden Sie
 [hier](https://www.rz.ifi.lmu.de/infos/gitlab_de.html).  Gruppen
 können sich über das
 [Webformular (inaktiv)](https://cis.lmu.de/~finkf/sp2021/sp2021) anmelden.
