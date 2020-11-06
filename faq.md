@@ -11,8 +11,8 @@ Dieser Kurs findet dieses Semester ausschließlich online statt.
 - *An wen wende ich mich, wenn ich Frage habe?* <br>
 Sie können den Dozenten und die Tutoren unter der E-Mail Adresse sp2021@cis.lmu.de erreichen.
 
-- *Ich kenne die andere Mitglieder meiner Gruppe nicht, wie kann ich mich mit denen Kontakt aufnehmen, um gemeinsam die Programmieraufgaben zu lösen？* <br>
-Ideal können Sie Gitlab-Issues benutzen. Hier eine kurze Anleitung zu Gitlab [Issues](https://docs.gitlab.com/ee/user/project/issues/).
+- *Ich kenne die anderen Mitglieder meiner Gruppe nicht, wie kann ich mich mit ihnen Kontakt aufnehmen, um gemeinsam die Programmieraufgaben zu lösen?* <br>
+Idealerweise nutzen Sie die Gitlab-Issues dafür. Hier eine kurze Anleitung zu Gitlab [Issues](https://docs.gitlab.com/ee/user/project/issues/).
 
 - *Wie verbinde ich mein Gitlab-Projekt mit Pycharm?* <br>
 Sie können das Gitlab Projekt entweder mit SSH-Schlüssel oder mit HTTPS auf Ihren PC klonen. <br>
