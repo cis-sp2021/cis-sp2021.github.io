@@ -11,10 +11,10 @@ Dieser Kurs findet dieses Semester ausschließlich online statt.
 - *An wen wende ich mich, wenn ich Frage habe?* <br>
 Sie können den Dozenten und die Tutoren unter der E-Mail Adresse sp2021@cis.lmu.de erreichen.
 
-- *Wie verbinde ich meinen Gitlab-Projekt mit Pycharm?* <br>
-Sie könnnen entweder mit SSH-Schlüssel oder mit HTTPS den Gitlab Projekt in Ihren PC klonen. <br>
-1). Gitlab -> Projekt -> Clone -> Clone with SSH/HTTPS (Wie man SSH-Schüssel anlegen soll, lesen Sie bitte die nächste Frage) <br>
-2). Pycharm -> VCS -> Get from Version Control -> das kopierte Link eingeben -> add file to Git -> Ja <br>
+- *Wie verbinde ich mein Gitlab-Projekt mit Pycharm?* <br>
+Sie können das Gitlab Projekt entweder mit SSH-Schlüssel oder mit HTTPS auf Ihren PC klonen. <br>
+1). Gitlab -> Project -> Clone -> Clone with SSH/HTTPS (Wie man einen SSH-Schüssel anlegen kann, können Sie in der nächsten Frage lesen) <br>
+2). Pycharm -> VCS -> Get from Version Control -> den kopierten Link eingeben -> add file to Git -> Ja <br>
 
 - *Wie kann ich einen ssh Schlüssel zu meinem Profil hinzufügen?* <br>
 Mit SSH-Schlüsseln können Sie eine sichere Verbindung zwischen Ihrem Computer und GitLab herstellen. Unter [diesem Link](https://gitlab2.cip.ifi.lmu.de/profile/keys) können Sie einen ssh Schlüssel für Ihren gitlab Account anlegen. Wie man einen ssh Schlüssel erstellen kann [sehen Sie hier](https://gitlab2.cip.ifi.lmu.de/help/ssh/README#generating-a-new-ssh-key-pair).
