@@ -44,5 +44,5 @@ Frequently asked questions: [FAQ](faq.md)
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Nov. 03, 2020 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
 | Nov. 05, 2020 | [Git intro](01_git_intro.pdf){:target="_blank"} | [Homework 1](hw01_python_basics.pdf){:target="_blank"} | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201105_uebung.mp4){:target="_blank"} |
-| Nov. 10, 2020 | | | [OOP-Script](oop_script.pdf){:target="_blank"} |
+| Nov. 10, 2020 | [Objektorientierung I](objektorientierungI.pdf){:target="_blank"} | | [OOP-Script](oop_script.pdf){:target="_blank"} |
 
