@@ -49,4 +49,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Nov. 17, 2020 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"} [Dokumentenklasse & Unit-Tests](03_documents_unittest.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201117_vorlesung){:target="_blank"} |
 | Nov. 19, 2020 | | [Homework 3](hw03_documents.pdf){:target="_blank"} |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201119_uebung.mp4){:target="_blank"}|
 | Nov. 24, 2020 | [Tf-Idf](04_tf_idf.pdf){:target="_blank"} [Search Engine](04_search_engine.pdf){:target="_blank"} | |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201124_vorlesung.mp4){:target="_blank"} |
-| Nov. 26, 2020 | |  [Homework 4](hw04_text_search.pdf){:target="_blank"} |[enron.tgz](enron.tgz){:target="_blank"} |
+| Nov. 26, 2020 | |  [Homework 4](hw04_text_search.pdf){:target="_blank"} |[enron.tgz](enron.tgz){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201126_uebung.mp4){:target="_blank"}|
