@@ -51,3 +51,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Nov. 24, 2020 | [Tf-Idf](04_tf_idf.pdf){:target="_blank"} [Search Engine](04_search_engine.pdf){:target="_blank"} | |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201124_vorlesung.mp4){:target="_blank"} |
 | Nov. 26, 2020 | |  [Homework 4](hw04_text_search.pdf){:target="_blank"} |[enron.tgz](enron.tgz){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201126_uebung.mp4){:target="_blank"}|
 | Dez. 01, 2020 | [Klassifikation](05_klassifikation.pdf){:target="_blank"} [Wahrscheinlichkeitstheorie](05_wahrsch.pdf){:target="_blank"} | |  [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201201_vorlesung.mp4){:target="_blank"} |
+| Nov. 26, 2020 | | [Homework 5](hw05_evaluation.pdf){:target="_blank"} | |
