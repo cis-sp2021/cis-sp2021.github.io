@@ -52,4 +52,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Nov. 26, 2020 | |  [Homework 4](hw04_text_search.pdf){:target="_blank"} |[enron.tgz](enron.tgz){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201126_uebung.mp4){:target="_blank"}|
 | Dez. 01, 2020 | [Klassifikation](05_klassifikation.pdf){:target="_blank"} [Wahrscheinlichkeitstheorie](05_wahrsch.pdf){:target="_blank"} | |  [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201201_vorlesung.mp4){:target="_blank"} |
 | Dez. 03, 2020 | | [Homework 5](hw05_evaluation.pdf){:target="_blank"} | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201203_uebung.mp4){:target="_blank"} |
-| Dez. 08, 2020 | [Naive Bayes](06_naive_bayes.pdf){:target="_blank"} | | |
+| Dez. 08, 2020 | [Naive Bayes](06_naive_bayes.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201208_vorlesung.mp4){:target="_blank"} |
