@@ -38,7 +38,7 @@ Rechtsklick auf src → mark directory as → sources root. <br>
 
 - *Wie wird die Übungs- und Vorlesungsklausur durchgeführt?* <br/>
   1. Zum Prüfungsbeginn wird Ihnen die Klausurangabe vom Dozenten an Ihre _@campus.lmu.de_ E-Mailadresse geschickt.
-  2. Bearbeiten Sie die Klausur indem Sie:
+  2. Bearbeiten Sie die Klausur indem Sie entweder:
      - die Klausur ausdrucken und die Aufgaben direkt auf dem Ausdruck handschriftlich bearbeiten,
      - die Aufgaben auf einem separaten Blatt handschriftlich bearbeiten,
      - oder die Aufgaben in einer digitalen Text-Datei berabeiten (vergessen Sie nicht zwischenzuspeichern).
