@@ -36,7 +36,7 @@ Beispiel:  python3 -m unittest -v hw03_documents/test_documents.py
 Falls es trotzdem nicht funktioniert und sie PyCharm benutzen, stellen Sie bitte sicher, dass der src Ordner als “sources root” markiert wurde. <br>
 Rechtsklick auf src → mark directory as → sources root. <br>
 
-- *Wie wird die Übungs- und Vorlesungsklausur durchgeführt?* <br/>
+- *Wie wird die Übungs- und Vorlesungsklausur durchgeführt?*
   1. Zum Prüfungsbeginn wird Ihnen die Klausurangabe vom Dozenten an Ihre _@campus.lmu.de_ E-Mailadresse geschickt.
   2. Bearbeiten Sie die Klausur indem Sie entweder:
      - die Klausur ausdrucken und die Aufgaben direkt auf dem Ausdruck handschriftlich bearbeiten,
