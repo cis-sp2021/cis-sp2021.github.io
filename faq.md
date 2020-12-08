@@ -39,12 +39,14 @@ Rechtsklick auf src → mark directory as → sources root. <br>
 - *Wie wird die Übungs- und Vorlesungsklausur durchgeführt?* <br/>
   1. Zum Prüfungsbeginn wird Ihnen die Klausurangabe vom Dozenten an Ihre _@campus.lmu.de_ E-Mailadresse geschickt.
   2. Bearbeiten Sie die Klausur indem Sie:
-     - die Klausur ausdrucken und die Aufgaben direkt auf dem Ausdruck handschriftlich bearbeiten
-     - die Aufgaben auf einem separaten Blatt handschriftlich bearbeiten
-     - die Aufgaben in einer digitalen Text-Datei berabeiten (vergessen Sie nicht zwischenzuspeichern)
+     - die Klausur ausdrucken und die Aufgaben direkt auf dem Ausdruck handschriftlich bearbeiten,
+     - die Aufgaben auf einem separaten Blatt handschriftlich bearbeiten,
+     - oder die Aufgaben in einer digitalen Text-Datei berabeiten (vergessen Sie nicht zwischenzuspeichern).
   3. Stellen Sie sicher, dass sich Ihre Bearbeitungen klar den Aufgaben zuordnen lassen.
   4. Nach Ablauf der Prüfungszeit (jeweils 45 Minuten für die Vorlesungs- und Übungsklausur), 
      müssen Sie entweder Ihr handschriftliches Dokument einscannen und an die E-Mailadresse des Dozenten schicken 
      oder Ihre bearbeitetete Textdatei an die E-Mailadresse des Dozenten schicken
-  
+  5. Falls Ihre Email 10 Minuten nach Ablauf der Prüfungszeit nicht beim Dozenten angekommen ist, gilt die Klausur als nicht bearbeitet.
+  6. Es gibt verschiedenen Programme (auch für Android, Linux, usw.), die Dokumenten einscannen und in ein PDF umzuwandeln können. 
+     Stellen Sie sicher, dass Sie über ein geeignetes Programm verfügen (und üben Sie dessen Anwendung).
 
