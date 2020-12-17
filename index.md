@@ -55,4 +55,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Dez. 08, 2020 | [Naive Bayes](06_naive_bayes.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201208_vorlesung.mp4){:target="_blank"} |
 | Dez. 10, 2020 | | [Homework 6](hw06_naive_bayes.pdf){:target="_blank"} | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201210_uebung.mp4){:target="_blank"} |
 | Dez. 15, 2020 | [Unsupervised Learning](07_unsupervised.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201215_vorlesung.mp4){:target="_blank"} |
-| Dez. 17, 2020 | |  | [20news-bydate.tar.gz](http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz){:target="_blank"} |
+| Dez. 17, 2020 | | [Homework 7](hw07_knn.pdf){:target="_blank"} | [20news-bydate.tar.gz](http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz){:target="_blank"} |
