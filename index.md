@@ -40,7 +40,7 @@ unterstützt. Eine kurze Einleitung zu PyCharm befindet sich
 Am 22.12.2020 um 16:00 Uhr (letzte Vorlesung 2020) findet eine Probeklausur statt.  
 Die Klausur hat eine Bearbeitungszeit von 45 Minuten und
 umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. 
-Sie wird unter möglichst realen Bedingungen ausgeführt (siehe [FAQ](faq.md)).
+Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe [FAQ](faq.md)).
 
 Frequently asked questions: [FAQ](faq.md)
 
