@@ -66,4 +66,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Dez. 17, 2020 | | [Homework 7](hw07_knn.pdf){:target="_blank"} | [20news-bydate.tar.gz](http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz){:target="_blank"}  [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201217_uebung.mp4){:target="_blank"}|
 | Dez. 22, 2020 | [Probeklausur](probe-klausur.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201222_vorlesung.mp4){:target="_blank"}|
 | Jan. 07, 2021 | | [Homework 8](hw08_kmeans.pdf){:target="_blank"} | [Kurse](courses.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210107_uebung.mp4){:target="_blank"}|
-| Jan. 12, 2021 | [NLTK vs. Spacy](nltk-spacy.pdf){:target="_blank"} | | |
+| Jan. 12, 2021 | [NLTK](nltk.pdf){:target="_blank"} | | |
