@@ -42,8 +42,8 @@ Die Klausur hat eine Bearbeitungszeit von 45 Minuten und
 umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. 
 Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe [FAQ](faq.md)).
 
-Die Klausur zur Vorlesung und zur Übung
-findet am 18.02.2021 ab 16:00 st. statt.
+Die Klausuren zur Vorlesung und zur Übung
+finden am 18.02.2021 ab 16:00 st. statt.
 
 Frequently asked questions: [FAQ](faq.md)
 
