@@ -67,4 +67,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Dez. 22, 2020 | [Probeklausur](probe-klausur.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20201222_vorlesung.mp4){:target="_blank"}|
 | Jan. 07, 2021 | | [Homework 8](hw08_kmeans.pdf){:target="_blank"} | [Kurse](courses.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210107_uebung.mp4){:target="_blank"}|
 | Jan. 12, 2021 | [NLTK](./nltk.pdf){:target="_blank"} | |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210112_vorlesung.mp4){:target="_blank"} |
-| Jan. 12, 2021 || [Homework 9](hw09_nltk.pdf){:target="_blank"}|[ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} |
+| Jan. 14, 2021 || [Homework 9](hw09_nltk.pdf){:target="_blank"}|[ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} |
