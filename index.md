@@ -21,7 +21,7 @@ sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 ### Verschiedenes
 
 Übungen sollen in Gruppen aus 2 oder 3 Teilnehmern bearbeitet werden.
-Hierzu benötigen alle Gruppenmitglieder einen gültigen 
+Hierzu benötigen alle Gruppenmitglieder einen gültigen
 [Gitlab](https://gitlab2.cip.ifi.lmu.de)-Account des IFI.  Mehr Informationen finden Sie
 [hier](https://www.rz.ifi.lmu.de/infos/gitlab_de.html).  Gruppen
 können sich über das
@@ -37,9 +37,9 @@ Es wird empfohlen die Entwicklungsumgebung
 unterstützt. Eine kurze Einleitung zu PyCharm befindet sich
 [hier](pycharm.pdf).
 
-Am 22.12.2020 um 16:00 Uhr (letzte Vorlesung 2020) findet eine Probeklausur statt.  
+Am 22.12.2020 um 16:00 Uhr (letzte Vorlesung 2020) findet eine Probeklausur statt.
 Die Klausur hat eine Bearbeitungszeit von 45 Minuten und
-umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung. 
+umfasst jeweils 4 Aufgaben zur Vorlesung und 4 Aufgaben zur Übung.
 Sie wird unter möglichst realen Bedingungen ausgeführt und die Abgabe erfolgt digital (siehe [FAQ](faq.md)).
 
 Die Klausuren zur Vorlesung und zur Übung
@@ -68,4 +68,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Jan. 07, 2021 | | [Homework 8](hw08_kmeans.pdf){:target="_blank"} | [Kurse](courses.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210107_uebung.mp4){:target="_blank"}|
 | Jan. 12, 2021 | [NLTK](./nltk.pdf){:target="_blank"} | |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210112_vorlesung.mp4){:target="_blank"} |
 | Jan. 14, 2021 || [Homework 9](hw09_nltk.pdf){:target="_blank"}|[ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210114_uebung.mp4){:target="_blank"}|
-| Jan. 19, 2021 | [Word-Net](wordnet_spacy.pdf){:target="_blank"} | | |
+| Jan. 19, 2021 | [Word-Net](wordnet.pdf){:target="_blank"} | | |
