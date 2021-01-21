@@ -69,4 +69,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Jan. 12, 2021 | [NLTK](./nltk.pdf){:target="_blank"} | |[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210112_vorlesung.mp4){:target="_blank"} |
 | Jan. 14, 2021 || [Homework 9](hw09_nltk.pdf){:target="_blank"}|[ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210114_uebung.mp4){:target="_blank"}|
 | Jan. 19, 2021 | [Word-Net](wordnet.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210119_vorlesung.mp4){:target="_blank"} |
-| Jan. 21, 2021 || [Homework 10](hw10_wordnet.pdf){:target="_blank"}| |
+| Jan. 21, 2021 || [Homework 10](hw10_wordnet.pdf){:target="_blank"}| [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210121_uebung.mp4){:target="_blank"} |
