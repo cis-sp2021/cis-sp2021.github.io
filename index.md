@@ -71,4 +71,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Jan. 19, 2021 | [Word-Net](wordnet.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210119_vorlesung.mp4){:target="_blank"} |
 | Jan. 21, 2021 || [Homework 10](hw10_wordnet.pdf){:target="_blank"}| [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210121_uebung.mp4){:target="_blank"}|
 | Jan. 26, 2021 | [Crawling & POS-Tagging](crawling_pos.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210126_vorlesung.mp4){:target="_blank"} |
-| Jan. 28, 2021 || [Homework 11](hw11_crawling.pdf){:target="_blank"}| [hydrogenics_report.txt](hydrogenics_report.txt){:target="_blank"} |
+| Jan. 28, 2021 || [Homework 11](hw11_crawling.pdf){:target="_blank"}| [hydrogenics_report.txt](hydrogenics_report.txt){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210128_uebung.mp4){:target="_blank"} |
