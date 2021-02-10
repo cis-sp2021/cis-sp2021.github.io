@@ -36,6 +36,15 @@ Beispiel:  python3 -m unittest -v hw03_documents/test_documents.py
 Falls es trotzdem nicht funktioniert und sie PyCharm benutzen, stellen Sie bitte sicher, dass der src Ordner als “sources root” markiert wurde. <br>
 Rechtsklick auf src → mark directory as → sources root. <br>
 
+- *Bonuspunkte* <br>
+Für die Klausur zur Vorlesungs gibt es Bonuspunkte, die auf den erreichten Punkten bei den Hausaufgaben basieren. 
+Bonuspunkte werden nur angerechnet, wenn die Klausur auch ohne Bonuspunkte bestanden wurde (Bonuspunkte helfen also
+nicht dabei, die Klausur zu bestehen).
+Es gibt maximal 10% der Punkte der Klausur als Bonus, die prozentual mit den erreichten Punkten bei der Hausaufgabe
+verrechnet werden.<br>
+Wenn z.B. die Klausur 100 Punkte enthält, bekommt man 10 Bonuspunkte, wenn 100% der Hausaufgabenpunkte erreicht wurden,
+6 Bonuspunkte, wenn 60% der Hausaufgabnpunkte erreicht wurden (60% der 10 Bonuspunkte) usw...
+
 - *Wie wird die Übungs- und Vorlesungsklausur durchgeführt?*
   1. Zum Prüfungsbeginn wird Ihnen die Klausurangabe vom Dozenten an Ihre _@campus.lmu.de_ E-Mailadresse geschickt.
   2. Bearbeiten Sie die Klausur indem Sie entweder:
