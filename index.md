@@ -75,3 +75,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Feb. 02, 2021 | [Hidden Markov Modelle](hmm.pdf){:target="_blank"} | | [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210202_vorlesung.mp4){:target="_blank"} |
 | Feb. 04, 2021 |||[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210204_uebung.mp4){:target="_blank"} |
 | Feb. 09, 2021 | [Zusammenfassung](zusammenfassung.pdf){:target="_blank"} | | [erklaerung.pdf](erklaerung.pdf){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210209_vorlesung.mp4){:target="_blank"} |
+| Feb. 11, 2021 |||[Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210211_uebung.mp4){:target="_blank"} |
