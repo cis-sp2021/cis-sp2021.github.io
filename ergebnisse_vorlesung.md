@@ -1,4 +1,4 @@
-## Ergebnisse Nachklausur zur Vorlesung
+# Ergebnisse Nachklausur zur Vorlesung
 ## Bewertungsschema Nachklausur
 
 
