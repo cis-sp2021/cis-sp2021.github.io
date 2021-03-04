@@ -1,8 +1,9 @@
 ## Ergebnisse Nachklausur zur Vorlesung
 ## Bewertungsschema Nachklausur
 
+
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den
-Übungsaufgaben): 40
+Ãœbungsaufgaben): 40
 
 | Mind. erreichte Punkte | Note |
 |---|---|
@@ -20,13 +21,13 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den
 
 ## Klausurpunkte / Bewertungsschema Bonuspunkte
 
-Maximal erreichbare Punktzahl in den Übungsaufgaben: 144
+Maximal erreichbare Punktzahl in den Ãœbungsaufgaben: 144
 
 Maximal 4.0 Bonuspunkte werden zu den in der Klausur erreichten Punkte
 addiert, wenn in der Klausur eine Punktzahl von mindestens 17 erreicht
 wurde.
 
-Berechnung der Bonuspunkte: ((erreichte Punktzahl in den Übungsaufgaben) / 144) * 4.0
+Berechnung der Bonuspunkte: ((erreichte Punktzahl in den Ãœbungsaufgaben) / 144) * 4.0
 
 Die Bonuspunkte werden zu den Klausurpunkten addiert
 (d.h. Klausurpunkte + Bonuspunkte = max. 44); die Note wird nach
