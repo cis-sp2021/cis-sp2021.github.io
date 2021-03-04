@@ -36,6 +36,7 @@ Aufgrund der derzeitigen Corona-Krise wird darum gebeten von einer
 Klausureinsicht abzusehen.
 
 | MatrikelNr. | Punkte Klausur | inkl. Bonus | Note |
+|---|---|---|---|
 | 10808800 | 29.5 | 32.6 | 1.3 |
 | 11179504 | 5 | 5 | NB |
 | 11207494 | 13 | 13 | NB |
