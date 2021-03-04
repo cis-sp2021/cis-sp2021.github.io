@@ -19,7 +19,7 @@ Sie erreichen den Dozenten und die Tutoren unter:
 sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 
 ### Ergebnisse der Nachklausuren
- - Ergebnisse der Klausur zur Vorlesung Ergebnisse ([Vorlesung](ergebnisse_vorlesung.md)
+ - Ergebnisse der Klausur zur Vorlesung Ergebnisse ([Vorlesung](ergebnisse_vorlesung.md))
  - Ergebnisse der Klausur zur Übung Ergebnisse ([Übung](ergebnisse_uebung.md))
 
 ### Verschiedenes
