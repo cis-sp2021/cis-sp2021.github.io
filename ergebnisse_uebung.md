@@ -1,4 +1,4 @@
-## Ergebnisse Nachklausur zur Übung
+# Ergebnisse Nachklausur zur Übung
 ## Bewertungsschema Nachklausur
 
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den
