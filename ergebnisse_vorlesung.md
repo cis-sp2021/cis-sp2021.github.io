@@ -32,7 +32,7 @@ Die Bonuspunkte werden zu den Klausurpunkten addiert
 (d.h. Klausurpunkte + Bonuspunkte = max. 44); die Note wird nach
 obigem Notenschema festgelegt.
 
-Aufgrund der derzeitigen Corona-Krise wird darum gebeten von einer
+Aufgrund der derzeitigen Corona-Krise wird darum gebeten, von einer
 Klausureinsicht abzusehen.
 
 | MatrikelNr. | Punkte Klausur | inkl. Bonus | Note |
