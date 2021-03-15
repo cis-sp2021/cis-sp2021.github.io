@@ -19,7 +19,7 @@ Sie erreichen den Dozenten und die Tutoren unter:
 sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 
 ### Nachholklausuren
- - Der Anmeldezeitraum fuer die Nachholklausuren ist 22.03.2021 - 05.04.2021
+ - Der Anmeldezeitraum für die Nachholklausuren ist 22.03.2021 - 05.04.2021
 
 ### Ergebnisse der Klausuren
  - Ergebnisse der Klausur zur Vorlesung Ergebnisse ([Vorlesung](ergebnisse_vorlesung.md))
