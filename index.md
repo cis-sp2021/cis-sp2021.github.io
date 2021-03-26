@@ -23,7 +23,7 @@ sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
  - Beide Klausuren finden am Dienstag den 13.04.2021 um 18:00 Uhr statt
  - Die Nachholklausuren werden genau wie die regulären Klausuren durchgeführt (siehe [Folien](zusammenfassung.pdf))
  - Fragen können direkt im Zoom-Chat oder telefonisch gestellt werden (siehe [Folien](zusammenfassung.pdf))
- - Wegen Problemen bei der Anmeldung im LSF melden Sie sich bitte mit einer Email an den Dozenten an 
+ - Wegen Problemen bei der Anmeldung im LSF melden Sie sich bitte **zusätzlich** mit einer Email an den Dozenten an 
  - Die Klausuren werden beim Start der Klausur zusätzlich auch auf dieser Seite verfügbar sein
 
 ### Ergebnisse der Klausuren
