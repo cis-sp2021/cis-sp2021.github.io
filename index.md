@@ -89,3 +89,4 @@ Frequently asked questions: [FAQ](faq.md)
 | Feb. 09, 2021 | [Zusammenfassung](zusammenfassung.pdf){:target="_blank"} | | [erklaerung.pdf](erklaerung.pdf){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210209_vorlesung.mp4){:target="_blank"} |
 | Feb. 11, 2021 |||[veroeffentlichung.pdf](veroeffentlichung.pdf){:target="_blank"} [Video](https://cis.lmu.de/~finkf/recordings/zoom/sp2021/20210211_uebung.mp4){:target="_blank"} |
 | Feb. 18, 2021 ||||
+| Apr. 13, 2021 |||[vorlesung](vorlesung.pdf){:target="_blank"} [uebung](uebung.pdf){:target="_blank"}|
