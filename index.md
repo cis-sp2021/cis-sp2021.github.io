@@ -19,6 +19,10 @@ Sie erreichen den Dozenten und die Tutoren unter:
 sp2021 [at] cis [dot] uni [minus] muenchen [dot] de
 
 ### Nachholklausuren
+Die Nachholklausuren sind abgeschlossen (13.04.2021) und die Ergebnisse werden hier auf der Seite veröffentlicht.
+Die Korrektur wird wahrscheinlich zwei Wochen dauern.
+Einen schönen Start ins neue Semester.
+
  - Der Anmeldezeitraum für die Nachholklausuren ist 22.03.2021 - 05.04.2021
  - Beide Klausuren finden am Dienstag den 13.04.2021 um 16:00 Uhr statt
  - Die Nachholklausuren werden genau wie die regulären Klausuren durchgeführt (siehe [Folien](zusammenfassung.pdf))
