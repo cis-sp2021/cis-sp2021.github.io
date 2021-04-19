@@ -1,5 +1,5 @@
-# Ergebnisse Nachklausur zur Übung
-## Bewertungsschema Nachklausur
+# Ergebnisse Klausur zur Übung
+## Bewertungsschema Klausur
 
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den
 Übungsaufgaben): 35
