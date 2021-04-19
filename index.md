@@ -29,10 +29,12 @@ Einen schönen Start ins neue Semester.
  - Fragen können direkt im Zoom-Chat oder telefonisch gestellt werden (siehe [Folien](zusammenfassung.pdf))
  - Wegen Problemen bei der Anmeldung im LSF melden Sie sich bitte **zusätzlich** mit einer Email an den Dozenten an 
  - Die Klausuren werden beim Start der Klausur zusätzlich auch auf dieser Seite verfügbar sein
+ - Ergebnisse der Nachholklausur zur Vorlesung ([Vorlesung](ergebnisse_nachhol_vorlesung.md))
+ - Ergebnisse der Nachholklausur zur Übung ([Übung](ergebnisse_nachhol_uebung.md))
 
 ### Ergebnisse der Klausuren
- - Ergebnisse der Klausur zur Vorlesung Ergebnisse ([Vorlesung](ergebnisse_vorlesung.md))
- - Ergebnisse der Klausur zur Übung Ergebnisse ([Übung](ergebnisse_uebung.md))
+ - Ergebnisse der Klausur zur Vorlesung ([Vorlesung](ergebnisse_vorlesung.md))
+ - Ergebnisse der Klausur zur Übung ([Übung](ergebnisse_uebung.md))
 
 ### Verschiedenes
 
