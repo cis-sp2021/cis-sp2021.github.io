@@ -1,5 +1,5 @@
-# Ergebnisse Nachklausur zur Vorlesung
-## Bewertungsschema Nachklausur
+# Ergebnisse Klausur zur Vorlesung
+## Bewertungsschema Klausur
 
 
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den
